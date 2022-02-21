@@ -52,6 +52,7 @@ body {
 .start:hover {
   background-color: white;
   color: red;
+  border-bottom: none;
 }
 img {
   width: 100%;
